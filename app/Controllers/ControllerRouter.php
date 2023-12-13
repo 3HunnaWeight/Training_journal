@@ -18,8 +18,4 @@ class ControllerRouter
     {
         View::render('login');
     }
-    public function archive()
-    {
-        View::render('archive');
-    }
 }
